@@ -1,5 +1,22 @@
 [
     {
+        "company": "明略科技",
+        "address": "云密城J",
+        "department": "营销智能",
+        "duties": "Java",
+        "working_time": "9:30-18:30",
+        "lunch_break": "1.5h",
+        "overtime": "双休,我在的时候不加班，后面不清楚有没有变化",
+        "housing_provident_fund": "工资10%",
+        "year-end_bonus": "说是3个月，不确信可不可靠",
+        "trial_period": "半年 不打折",
+        "workstation": "5k左右的thinkpad 可以自带，没补贴。",
+        "annual_leave": "",
+        "punch_in": "刷工牌打卡",
+        "remarks": "",
+        "update_time": "2022-03-03"
+    },
+    {
         "company": "南京云创大数据",
         "address": "江苏省南京市秦淮区",
         "department": "人工智能",
