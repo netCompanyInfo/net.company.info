@@ -1,5 +1,22 @@
 [
     {
+        "company": "奥特酷智能科技（南京）有限公司",
+        "address": "雨花润和软件园",
+        "department": "工具开发部",
+        "duties": "开发工程师",
+        "working_time": "9:00/10:00-18:00/19:00，弹性1个小时",
+        "lunch_break": "11:30-12:30(实际1.5h)",
+        "overtime": "看情况，基本到点就走，除非自己判断deadline前无法做完",
+        "housing_provident_fund": "工资全额的12%",
+        "year-end_bonus": "承诺一个月，根据年底绩效考评向上调整，一般大于1个月",
+        "trial_period": "试用期6个月，不打折，转正目前没有答辩，也不要写申请",
+        "workstation": "Dell Precision 3651/Thinkpad P14s",
+        "annual_leave": "有，按国家规定执行，随时都可以休",
+        "punch_in": "钉钉手机打卡，每个月有三次提忘打卡",
+        "remarks": "工作还算轻松，节奏偏慢~",
+        "update_time": "2022-04-14"
+    },
+    {
         "company": "鱼快创领（南京）",
         "address": "南京市九龙湖企业总部园",
         "department": "硬件",
