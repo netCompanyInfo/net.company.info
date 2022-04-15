@@ -1,5 +1,22 @@
 [
     {
+        "company": "Honeywell（霍尼韦尔）",
+        "address": "江宁大学城",
+        "department": "软件",
+        "duties": "测试开发工程师",
+        "working_time": "8:30-17:00",
+        "lunch_break": "11:30-13:00",
+        "overtime": "看情况，基本到点就走，除非自己判断deadline前无法做完，周末几乎无加班，周末加班调休",
+        "housing_provident_fund": "工资全额的10%+年底补充年薪5%",
+        "year-end_bonus": "固定13薪，额外奖金1个月左右",
+        "trial_period": "试用期6个月，不打折，转正目前没有答辩，也不要写申请",
+        "workstation": "后端测试Dell,前端MAC 工位人均3,4平，空间很大，能放个床",
+        "annual_leave": "12天年假",
+        "punch_in": "不打卡",
+        "remarks": "工作节奏不快，员工福利基本上每个月都会发一些东西，其他也没什么了",
+        "update_time": "2022-04-15"
+    },
+    {
         "company": "奥特酷智能科技（南京）有限公司",
         "address": "雨花润和软件园",
         "department": "工具开发部",
