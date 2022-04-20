@@ -1,5 +1,22 @@
 [
     {
+        "company": "新康众有限公司（江苏康众汽配）",
+        "address": "江苏省南京市建邺区",
+        "department": "技术中心-供应链",
+        "duties": "Java",
+        "working_time": "9:00-18：00",
+        "lunch_break": "1.5h",
+        "overtime": "不强制加班，但是你没法早走，经常晚上开会",
+        "housing_provident_fund": "个人1500+公司1500",
+        "year-end_bonus": "hr说是3个月，实则0",
+        "trial_period": "试用期3个月；不打折。",
+        "workstation": "网吧工位，电脑自己买，公司最多报销1w，分36个月返给你",
+        "annual_leave": "入职满3年有三天，且没有陪产假这些。",
+        "punch_in": "钉钉打卡，领导会看监控以防你打卡了但人没到",
+        "remarks": "公司没有任何福利，老板很抠门。从大领导到小领导都只会pua。直系领导每天啥都不干，只盯着你不让你闲着，要求24小时保持工作状态",
+        "update_time": "2022-04-20"
+    },
+    {
         "company": "中国电子云",
         "address": "雨花台区凯润大厦",
         "department": "存储开发部",
