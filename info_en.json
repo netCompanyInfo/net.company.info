@@ -1,5 +1,22 @@
 [
     {
+        "company": "紫金山实验室",
+        "address": "江苏省南京市江宁区",
+        "department": "未来网络",
+        "duties": "网络/区块链/k8s",
+        "working_time": "9:00-18:00",
+        "lunch_break": "1.5h",
+        "overtime": "基本上很少加班",
+        "housing_provident_fund": "总包*0.7/12，比例缴纳12%",
+        "year-end_bonus": "总包*0.2",
+        "trial_period": "试用期6月数；工资不打折",
+        "workstation": "工位大小1.5平方格子，提供联想台式电脑。",
+        "annual_leave": "按照国家法定节假日。",
+        "punch_in": "严格打卡，使用楼下打卡机人脸识别打开。",
+        "remarks": "课题1千万别去，套路太多，管理混乱，领导一言堂，而且是没经验的一言堂",
+        "update_time": "2022-04-20"
+    },
+    {
         "company": "新康众有限公司（江苏康众汽配）",
         "address": "江苏省南京市建邺区",
         "department": "技术中心-供应链",
